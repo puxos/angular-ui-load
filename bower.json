@@ -1,0 +1,14 @@
+{
+    "name": "angular-ui-load",
+    "version": "0.1.0",
+    "main": "ui-load.js",
+    "license": "MIT",
+    "homepage": "https://github.com/leadstec/angular-ui-load",
+    "ignore": [
+        "src",
+        "example"
+    ],
+    "dependencies": {
+        "angular": ">=1.2.0"
+    }
+}
