@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * 0.1.0
+ * 0.1.1
  * Deferred load js/css file, used for ui-jq.js and Lazy Loading.
  * 
  */

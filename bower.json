@@ -1,6 +1,6 @@
 {
     "name": "angular-ui-load",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "ui-load.js",
     "license": "MIT",
     "homepage": "https://github.com/leadstec/angular-ui-load",
