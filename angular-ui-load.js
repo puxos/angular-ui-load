@@ -1,8 +1,8 @@
 'use strict';
 
 /**
- * 0.1.1
- * Deferred load js/css file, used for ui-jq.js and Lazy Loading.
+ * 1.0.0
+ * Deferred load js/css file, used for angular-ui-jq.js and Lazy Loading.
  * 
  */
 angular.module('ui.load', []).service('uiLoad', ['$document', '$q', '$timeout', 

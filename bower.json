@@ -1,9 +1,9 @@
 {
     "name": "angular-ui-load",
-    "version": "0.1.1",
-    "main": "ui-load.js",
+    "version": "1.0.0",
+    "main": "angular-ui-load.js",
     "license": "MIT",
-    "homepage": "https://github.com/leadstec/angular-ui-load",
+    "homepage": "https://github.com/puxos/angular-ui-load",
     "ignore": [
         "src",
         "example"

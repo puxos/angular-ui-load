@@ -1,4 +1,4 @@
 angular-ui-load
 ===============
 
-AngularJS module for lazy loading
+Deferred load js/css file, used for angular-ui-jq.js and Lazy Loading.

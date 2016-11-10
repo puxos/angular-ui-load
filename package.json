@@ -1,0 +1,18 @@
+{
+  "name": "angular-ui-load",
+  "version": "1.0.0",
+  "description": "Deferred load js/css file, used for angular-ui-jq.js and Lazy Loading",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puxos/angular-ui-load.git"
+  },
+  "author": "Frank,H.L.Lai <frank@leadstec.com>",
+  "license": "MIT",
+  "main": "angular-ui-load.js",
+  "dependencies": {
+    "angular": "^1.5.0"
+  },
+  "keywords": [
+    "AngularJS"
+  ]
+}
